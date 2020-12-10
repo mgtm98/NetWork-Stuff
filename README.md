@@ -13,7 +13,7 @@ Every Layer is represented as a class and each class inherits from Abstract Laye
 
 Layers classes inherit from Layer class which defines buffers & communication methods between the layers
 
-![Alt text](https://github.com/mgtm98/NetWork-Stuff/blob/main/Untitled%20Diagram.png)
+![](https://github.com/mgtm98/NetWork-Stuff/blob/main/network.png)
 
 #### Layer Abstract Class
 ```python
